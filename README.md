@@ -1,6 +1,6 @@
 # Fleet Manager
 
-## This is a fleet management project built to help truck drivers manage their maintenance, supplies, trips, expenses, and more.
+## Fleet management project built to help truck drivers manage their maintenance, supplies, trips, expenses, and more.
 
 I noticed that some drivers, at least those I know, only write down this information on paper. This can result in lost data and make management difficult. Therefore, I created this software to make it easier.
 
