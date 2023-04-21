@@ -11,6 +11,6 @@ I will include a photo or video to demonstrate the software.
 For now, the software is in closed beta testing. When I think it is ready, I will provide the link for access.
 
 ## Technologies
-.Net 7 - Using MVC architecture.
-Angular 14 - Using Tailwind CSS for styling, which saves time compared to writing a lot of CSS.
+.Net 7 - Using MVC architecture. <br>
+Angular 14 - Using Tailwind CSS for styling, which saves time compared to writing a lot of CSS.<br>
 Azure - This is what I chose to deploy the application, implement CI/CD, and also learn how to work with logs.
