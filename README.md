@@ -5,7 +5,9 @@
 I noticed that some drivers, at least those I know, only write down this information on paper. This can result in lost data and make management difficult. Therefore, I created this software to make it easier.
 
 ## Take a look at how it works
-https://user-images.githubusercontent.com/79767115/234417421-f431fd4a-c842-46b7-b7b1-b7c57d7d73cb.mp4 
+https://user-images.githubusercontent.com/79767115/234424521-2649e2c2-f16f-4927-aaa2-cb6225724a8b.mp4
+
+
 <br>
 This is the beta version. It's being improved.
 
