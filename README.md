@@ -1,20 +1,20 @@
-# Fleet Manager
+# Gestor de Frotas
 
-## Fleet management project built to help truck drivers manage their maintenance, supplies, trips, expenses, and more.
+## Projeto de gerenciamento de frota desenvolvido para ajudar motoristas de caminhão a gerenciar:  manutenção, suprimentos, viagens, despesas e muito mais.
 
-I noticed that some drivers, at least those I know, only write down this information on paper. This can result in lost data and make management difficult. Therefore, I created this software to make it easier.
+Percebi que alguns motoristas apenas anotam essas informações em papel (isso quando anotam). O que pode resultar em perda de dados e dificultar o gerenciamento. Portanto, criei este software para facilitar.
 
-## Take a look at how it works
+## Dê uma olhada em como funciona:
 https://user-images.githubusercontent.com/79767115/234424521-2649e2c2-f16f-4927-aaa2-cb6225724a8b.mp4
 
 
 <br>
-This is the beta version. It's being improved.
+O software está sendo aprimorado.
 
-## How to access
-For now, the software is in closed beta testing. When I think it is ready, I will provide the link for access.
+## Como acessar:
+Por enquanto, o software está em teste beta fechado. Em breve irei fornecer o link para acesso.
 
-## Technologies
-.Net 7 - Using MVC architecture. <br>
-Angular 14 - Using Tailwind CSS for styling, which saves time compared to writing a lot of CSS.<br>
-Azure - This is what I chose to deploy the application, implement CI/CD, and also learn how to work with logs.
+## Tecnologias:
+.Net 7 - Utilizando a arquitetura MVC.
+Angular 14 - Utilizando o Tailwind CSS para estilização, o que economiza um bom tempo em comparação com escrever CSS puro.
+Azure - Foi onde escolhi para fazer deploy da aplicação.
